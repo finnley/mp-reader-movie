@@ -4,7 +4,7 @@
 		"ignore": []
 	},
 	"setting": {
-		"urlCheck": true,
+		"urlCheck": false,
 		"es6": true,
 		"enhance": false,
 		"postcss": true,
@@ -76,6 +76,13 @@
 					"id": -1,
 					"name": "pages/posts/posts",
 					"pathName": "pages/posts/posts",
+					"query": "id=1",
+					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "pages/movies/movies",
+					"pathName": "pages/movies/movies",
 					"query": "id=1",
 					"scene": null
 				}
