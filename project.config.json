@@ -71,6 +71,13 @@
 					"pathName": "pages/posts/post-detail/post-detail",
 					"query": "id=1",
 					"scene": null
+				},
+				{
+					"id": -1,
+					"name": "pages/posts/posts",
+					"pathName": "pages/posts/posts",
+					"query": "id=1",
+					"scene": null
 				}
 			]
 		}
